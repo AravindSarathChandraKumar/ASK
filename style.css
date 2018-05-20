@@ -1,0 +1,25 @@
+body{
+    background-color: deepskyblue;
+}
+
+.grid{
+    
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 10px 50px 50px 5px;
+    border: 2px solid deepskyblue;
+    border-radius: 50px;
+    box-shadow: 10px 15px 5px grey;
+}
+
+.grid h1{
+    font-family: sans-serif;
+    background-color: grey;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 0px;
+    border-radius: 50px;
+}
